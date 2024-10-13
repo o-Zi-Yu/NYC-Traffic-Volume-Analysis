@@ -6,7 +6,7 @@ The traffic volume data comes from New York City Open data, a free public data p
 This project analysis million rows of data via PySpark and visualize using html.
 
 ### Image 1: Station Map
-![Station Map](station map.png)
+![Station Map](https://github.com/o-Zi-Yu/NYC-Traffic-Volume-Analysis/blob/main/station%20map.png)
 
-### Image 2: Station Map
-![NYC Roadmap](NYC Roadmap.png)
+### Image 2: NYC RoadMap
+![NYC Roadmap](https://github.com/o-Zi-Yu/NYC-Traffic-Volume-Analysis/blob/main/NYC%20roadmap.png)
